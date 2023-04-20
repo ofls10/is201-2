@@ -1,0 +1,53 @@
+.font {
+    font-size: xx-large;
+    color: rgb(55, 94, 167);
+    font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+.Namefont {
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    color: rgb(55, 94, 167);
+    font-style: oblique;
+}
+.resumebg {
+    background-image: url("../assets/img/pngtree-resume-picture-educational-background-image_931599.jpeg");
+}
+.listheader {
+    background-color: rgba(0, 247, 255, 0.223);
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    color: rgb(207, 207, 152) !important;
+    position: absolute;
+    top: 100px;
+    left: 0;
+}
+.move {
+    text-align: center;
+    list-style-position: inside;
+    padding: 0px;
+}
+a {
+    color: rgb(207, 207, 152);
+}
+.moveimage {
+    border-top: 500px;
+    left: 500px;
+    text-align: center;
+}
+
+.attfont {
+    color: rgb(207, 207, 152);
+    font-size: x-large;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.movevideo {
+    margin-left: 30%;
+    margin-top: 50px;
+}
+
+.common {
+    border: 2px wheat;
+    position: absolute;
+}
+.mainbody {
+    font-size: large;
+}
